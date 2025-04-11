@@ -1,2 +1,2 @@
-# Cutscene Audio
-This audio was way too big to stick into the Repo so it is the only one missing from the folder.
+# MISSING
+The Cutscene music written by Carmen is missing due to the file being so big.

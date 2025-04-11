@@ -13,9 +13,15 @@ Object Interactions: E
 Pause Menu: ESC. Key
 Menu Buttons: Mouse (Left Clicking)
 
+Melody of Home was made on a Windows PC and therefore was created to be played on Windows
+
 ---> GUIDE
 -
 Because Melody of Home is a narrative based game, there is some linearity to the gameplay that the player has to follow in order to progress and achieve the next piece of story. 
+
+---> THE START
+Melody of Home is started by clicked 'My Project,' which was an accidental name given to it, not realizing that changing the name later on had potential to break the game...
+Also be aware that the game starts immediately by entering a cutscene, so click on it when you are fully ready to engage and listen to the game!
 
 After the first cutscene, the player is given an 
 ---> OBJECTIVE
